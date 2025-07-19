@@ -10,7 +10,7 @@ const button = document.querySelector('.filters button');
 const gallery = document.getElementById('gallery');
 
 // NASA APOD API key (use DEMO_KEY for testing)
-const API_KEY = 'DEMO_KEY';
+const API_KEY = 'erk7tbFfUhSG4IV456z9QCP4D5nhXauU9pxzTrSN';
 
 // Listen for button click to fetch images
 button.addEventListener('click', () => {
